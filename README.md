@@ -15,8 +15,8 @@ It reads a CSV file of transactions, cleans the data, summarizes spending by cat
 
  Exports all results to Excel with separate sheets for:
 
-Transactions
-Summary
+Transactions,
+,Summary
 Overview
 
 Optional: Add charts in Excel to visualize spending by category or month.
